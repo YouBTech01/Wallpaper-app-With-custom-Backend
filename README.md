@@ -81,10 +81,10 @@ module.exports = {
   storagePath: './storage',
   jwtSecret: 'your-very-secure-jwt-secret-key', // Change this to a secure random string
   jwtExpiry: '7d',
-  adminEmail: 'admin@ybt.com',
-  adminPassword: 'securepassword123', // Initial password used to seed admin account on first run
+  adminEmail: 'admin@yourdomain.com',
+  adminPassword: 'securepassword', // Initial password used to seed admin account on first run
   appName: 'YBT Wallpaper',
-  supportEmail: 'support@ybt.com'
+  supportEmail: 'support@yourdomain.com'
 };
 ```
 
@@ -131,7 +131,7 @@ class Config {
   static const String baseUrl = 'http://localhost:3000'; // For local testing
   // static const String baseUrl = 'https://your-production-domain.com'; // For production
   static const String appName = 'YBT Wallpaper';
-  static const String supportEmail = 'support@ybt.com';
+  static const String supportEmail = 'support@yourdomain.com';
   static const int paginationLimit = 20;
   static const String defaultTheme = 'light'; // 'light' or 'dark'
 }

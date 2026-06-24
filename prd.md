@@ -176,7 +176,7 @@ Single HTML file. No framework. Vanilla JS fetch calls to the API.
 class Config {
   static const String baseUrl = 'http://localhost:3000'; // change for prod
   static const String appName = 'YBT Wallpaper';
-  static const String supportEmail = 'support@ybt.com';
+  static const String supportEmail = 'support@yourdomain.com';
   static const int paginationLimit = 20;
   static const String defaultTheme = 'light'; // 'light' or 'dark'
 }

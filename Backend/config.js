@@ -6,7 +6,7 @@ const path = require('path');
 
 module.exports = {
   // Server
-  baseUrl: 'http://wallpaper.ybtshop.com',
+  baseUrl: 'http://localhost:3000', // Change to your production domain (e.g., https://your-domain.com) in production
   port: 3000,
 
   // Database
@@ -21,12 +21,12 @@ module.exports = {
   jwtExpiry: '7d',
 
   // Admin (auto-created on first run)
-  adminEmail: 'admin@ybt.com',
-  adminPassword: 'admin123',
+  adminEmail: 'admin@yourdomain.com',
+  adminPassword: 'admin_password_change_me',
 
   // App
   appName: 'YBT Wallpaper',
-  supportEmail: 'support@ybt.com',
+  supportEmail: 'support@yourdomain.com',
   version: '1.0.0',
 
   // Pagination
