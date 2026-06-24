@@ -194,3 +194,14 @@ flutter build ipa --release
 *   **Colors:** Minimalist palette featuring Sky Blue (`#38BDF8`), pure White (`#FFFFFF`), Slate (`#0F172A`/`#1E293B` for dark mode surfaces), and crisp Black.
 *   **Interactivity:** Smooth bottom-sheet drawer slides for previewing, download details, and user registration.
 *   **Media Handling:** Wallpaper images are loaded asynchronously using cached network image streams, using elegant shimmers to improve the user experience.
+
+---
+
+## Connect with Us
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@You_B_Tech)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YouBTech01)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/you_b_tech)
+[![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/You_B_Tech)
+[![Blog](https://img.shields.io/badge/Blog-ybtshop.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ybtshop.com)
+
